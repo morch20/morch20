@@ -44,7 +44,7 @@
 
 ## 📬 Get in Touch
 
-- Connect with me on [Twitter](https://twitter.com/introvertedbot)
+- Connect with me on [Linkedin](https://www.linkedin.com/in/joseph-maria/)
 
 
 
