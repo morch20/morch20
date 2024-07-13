@@ -39,7 +39,7 @@
 
  ## 🏆 Achievements
 
-- Web Developer Director of SHPE at UCF from Aug 2022 - Aug 2023, and led workshops that teach other SHPE members about React, HTML/CSS, and JavaScript, and advise attendees about best practices in web development.
+- Web Developer Director of SHPE at UCF from Aug 2022 - Aug 2023, and led workshops that teach other SHPE members about React, HTML/CSS, and JavaScript, and advised attendees about best practices in web development.
 
 
 ## 📬 Get in Touch
