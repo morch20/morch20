@@ -1,43 +1,50 @@
 # Hi, I'm Joseph! 👋
 
-I am a passionate M.Tech CS student at IIT Kharagpur, driven by a curiosity for technology and a love for writing. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
+<!-- ![morch20's Stats](https://github-readme-stats.vercel.app/api?username=morch20&theme=vue-dark&show_icons=true&hide_border=true&count_private=true) -->
 
-![morch20's Stats](https://github-readme-stats.vercel.app/api?username=morch20&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+## About Me
 
-## 🚀 About Me
+<!--- I am pursuing a Master's degree in Computer Science from Georgia Tech, and recieved my Computer Science B.S. degree from the University of Central Florida. -->
 
-- 🔭 I'm currently pursuing my Master's in Computer Science at IIT Kharagpur.
-- 📝 I write in-depth, long-form articles on my website [theenthusiast.dev](https://theenthusiast.dev), accumulating over 20k views within just 2 months.
-- 🌐 Proud member of the [Hackernoon Blogging Fellowship](https://hackernoon.com/), contributing to the tech community.
-- ✍️ Content Writer at [freeCodeCamp](https://www.freecodecamp.org/), gearing up to share valuable insights with the global coding community.
+<!-- As the owner of Maria Media LLC, I work as a freelance Software Engineer and also create online coding tutorial content. -->
 
-## My Articles
-- [JavaScript Engine and Runtime Explained](https://www.freecodecamp.org/news/javascript-engine-and-runtime-explained/)
+- 🏫 I received a Computer Science B.S. degree from the University of Central Florida.
+- 💻 I am working as a Full-Stack Software Engineer.
+- 🌱 Currently, I am learning 3D web development using Three.js.
 
-
-## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
-
-## 🌱 Currently Exploring
+<!-- ## more ideas for format uhh...
 
 - 🚀 Learning Full Stack Web Development
   - Exploring the ins and outs of React and Redux for dynamic front-end experiences.
   - Navigating through the world of React Router for seamless page transitions.
   - Styling with Tailwind CSS to create modern and responsive user interfaces.
   - Building server-side applications with Django, a powerful Python web framework.
-  - Diving into PostgreSQL for efficient and scalable database management.
+  - Diving into PostgreSQL for efficient and scalable database management. -->
+
+
+## Tech Stack
+
+#### Frontend
+[![Frontend](https://skillicons.dev/icons?i=js,html,css,react,figma,materialui,tailwind,threejs,typescript)](https://skillicons.dev)
+
+#### Backend
+[![Backend](https://skillicons.dev/icons?i=prisma,mongodb,dotnet,express,nodejs,mysql,postgres,redis)](https://skillicons.dev)
+
+#### Full-Stack
+[![Full-Stack](https://skillicons.dev/icons?i=nextjs)](https://skillicons.dev)
+
+#### Programming Languages and Tools 
+[![Tools](https://skillicons.dev/icons?i=docker,c,cs,electron,gitlab,java,jest,kafka,postman,py,ubuntu,selenium,vercel)](https://skillicons.dev)
+
 
  ## 🏆 Achievements
 
-- 🌟 Completed Hacktoberfest 2023 - Contributed to open source projects and celebrated the spirit of collaboration.
+- Web Developer Director of SHPE at UCF from Aug 2022 - Aug 2023, and led workshops that teach other SHPE members about React, HTML/CSS, and JavaScript, and advise attendees about best practices in web development.
 
 
 ## 📬 Get in Touch
 
 - Connect with me on [Twitter](https://twitter.com/introvertedbot)
-- Read more of my articles on [theenthusiast.dev](https://theenthusiast.dev)
-
-Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
 
 
 
